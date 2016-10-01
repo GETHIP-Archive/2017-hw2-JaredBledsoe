@@ -1,0 +1,10 @@
+{
+    "firstName":"Jared ",
+    "lastName":"Bledsoe",
+    "age":17,
+    "picture": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p160x160/10561676_467184023440902_8245671705686814342_n.jpg?oh=c8bbe68ee55191618140dc487f8c1d05&oe=5877D84B",
+    "nickNames": [
+        {"nick": "JJ"},
+        {"nick": "Jaybo"}
+    ]
+}
